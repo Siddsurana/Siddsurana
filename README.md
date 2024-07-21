@@ -1,5 +1,5 @@
 
-
+![logo](https://camo.githubusercontent.com/edaf7f9ed5e46054f007215e170f3a2aa6a65cb09da9f233aea72623e9148fc8/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30325f6e65772e676966)
 <h1 align="center">Hi 👋, I'm Siddharth Surana</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
